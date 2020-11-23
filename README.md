@@ -24,5 +24,5 @@ For users that need to keep track of a lot of information, it's easy to forget o
 Application allows users to 1) create and save notes; 2) view previously saved notes; & 3) delete previously saved notes.
 
 ## Screenshots
-![App Screenshot](public/assets/images/1)
-![App Screenshot](public/assets/images/2)
+![App Screenshot](public/assets/images/1.png)
+![App Screenshot](public/assets/images/2.png)
